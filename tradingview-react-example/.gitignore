@@ -22,21 +22,6 @@ lib-cov
 coverage
 *.lcov
 
-chart/build
-
-charting_library/charting_library*
-chart/src/charting_library/charting_library.min.d.ts
-chart/src/charting_library/charting_library.min.js
-chart/src/charting_library/datafeed-api.d.ts
-chart/public/charting_library/static/*
-chart/public/charting_library/charting_library.min.d.ts
-chart/public/charting_library/charting_library.min.js
-chart/public/charting_library/datafeed-api.d.ts
-
-.DS_Store
-
-public/charting_library/charting_library*
-
 # nyc test coverage
 .nyc_output
 

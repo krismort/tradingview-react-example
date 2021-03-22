@@ -1,0 +1,24 @@
+{
+  "name": "tradingview-react-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "heroku local web",
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "fast-proxy": "^2.0.0",
+    "http": "0.0.1-security",
+    "http-proxy": "^1.18.1",
+    "https": "^1.0.0",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2",
+    "restana": "^4.8.1",
+    "restana-express-compatibility": "^1.3.2"
+  }
+}
